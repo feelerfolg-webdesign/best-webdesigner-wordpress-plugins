@@ -1,5 +1,6 @@
-# best-webdesigner-wordpress-plugins
-Best Wordpress Plugins for Webdesigner
+# Best Wordpress Plugins for Webdesigner
+
+## SEO-Tools
 
 Choose the plugin(s) that best fit your specific needs and goals for optimizing your WordPress website’s SEO.
 
