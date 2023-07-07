@@ -1,6 +1,6 @@
 # Best Wordpress Plugins for Web Designers
 
-The best WordPress plugins every [web designer](https://feelerfolg-webdesign.de/) should know. Here's a list of top plugins in four categories to help you enhance your website’s SEO, caching and performance, internal linking, and security and data privacy. 
+The best [WordPress](https://wordpress.com/) plugins every [web designer](https://feelerfolg-webdesign.de/) should know. Here's a list of top plugins in four categories to help you enhance your website’s SEO, caching and performance, internal linking, and security and data privacy. 
 
 ## 1. SEO-Tools
 
